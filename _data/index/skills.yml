@@ -5,7 +5,7 @@
 
 - name: Electrical Engineering
   i18n: ee
-  img: /static/assets/img/landing/asic_layout.jpg
+  img: /static/assets/img/landing/asic.jpg
   desc: Verilog, Xilinx ISE, Arduino IDE, Virtuoso, Encounter, Design Vision, Primetime, Wave View
 
 - name: Computer Networks
