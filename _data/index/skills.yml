@@ -1,0 +1,14 @@
+- name: Computer Science
+  i18n: cs
+  img: /static/assets/img/landing/python.png
+  desc: Python, C, Java, SAP ABAP, SQL, HTML, JavaScript, ReactJS, D3.JS, Spring Boot, Spring MVC
+
+- name: Electrical Engineering
+  i18n: ee
+  img: /static/assets/img/landing/asic_layout.jpg
+  desc: Verilog, Xilinx ISE, Arduino IDE, Virtuoso, Encounter, Design Vision, Primetime, Wave View
+
+- name: Computer Networks
+  i18n: cn
+  img: /static/assets/img/landing/servers.jpg
+  desc: GNS3, Wireshark, TCP/IP, Sockets, ATM, MPLS, IGP, BGP, MCAST, basic 802.3 and 802.11

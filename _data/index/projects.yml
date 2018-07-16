@@ -1,0 +1,25 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Reverse Engineering Lyft.com Databases
+  desc: Reverse engineered lyft.com database for normalization analysis and derived relational as well as normalized relational schema and few relevant triggers for the system.
+
+- name: Content Addressable p2p Hypermedia Sharing
+  desc: Designed system architecture and implemented server nodes in Java to maintain p2p network, hashed content table, track content, provide content and manage client through HTTP/1.0 gateway.
+
+- name: ASIC Design - Mini Stereo Audio Processor
+  desc: Devised FIR filter architecture in Verilog RTL and verified using C. Verified pre and post synthesis functionality. Optimized physical design area and power using Synopsys IC Compiler tool.
+
+
+- name: Evaluation of Cache Hierarchy on x86 Architecture
+  desc: Examined optimal cache configuration encompassing x86 microprocessor architecture using gem5 tool and python script to run multiple parameter variation of CPU type, cache level, size, associativity and block size.
+
+- name: Physical Design of Custom Imperial/Metric Unit Convertor I
+  desc: • Implemented state machine RTL behavioral code in Verilog following IEEE 754 FP single precision standard. • Design of IBM130nm process IC involved custom layout for standard cells using Cadence Virtuoso, DRC, LVS, PEX, HSPICE simulation, cell library design using SliconSmart, Design vision synthesis, automatic place and route using Encounter and PrimeTime for timing and power analysis.
+
+- name: Autonomous Moving Target Detection and Tracking
+  desc: • Designed and developed a tracking algorithm to track human beings in a given frame with the use of Haar cascade classifiers. • Designed architecture and implemented image processing algorithm in Python using OpenCV. Fabricated hardware with camera and Arduino calibrator/ controller driving stepper motor to replicate and validate actions taken by algorithm.
+
+
+- name: Basic Mobile Telephone
+  desc: Engineered device capable for making and receiving calls. Implementation involved managing serial communication between SIM900A GSM module and Arduino with LCD display and Keypad interfaced.

@@ -1,0 +1,47 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Mr. Cooper
+    i18n: company_c
+  desc:
+    detail: "•Created REST service in MVC model using Spring Boot for delivering content to ReactJS and D3.JS to render event flow graph. Used Redux and Saga along with ReactJS for monitoring state and render content.
+•	Design involved aspect-oriented programming to enable analytics through mongo DB by logging information."
+    i18n: company_c_desc
+  date:
+    detail: May 2018 - Present (Upd. 07/09/2018)
+    i18n: company_c_date
+  job:
+    detail: Software Devloper Intern
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: The University of Texas at Dallas, P&T Dept.
+    i18n: company_b
+  desc:
+    detail: "• Developed invoicing application to bill and send emails to users in MS Access. Design involved handling MS Outlook object, MS Word object, Access SQL queries, file dialogs and business logic implementation.
+• Advocated solution streamlined process, accomplished 75% reduction in billable time, introduced three-point audit reducing human error, enriched content delivery using HTML and improvised content understanding."
+    i18n: company_b_desc
+  date:
+    detail: July 2017 - May 2018
+    i18n: company_b_date
+  job:
+    detail: Student Software Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Infosys Ltd.
+    i18n: company_a
+  desc:
+    detail: "• Designed 3 tier e-marketing application. Implemented it using Python and Oracle Database connections. Participated in project plan presentation, functional and nonfunctional analysis, development and testing.
+• Created easy to use SAP application to allocate optimal location to employees based on various parameters in SAP ABAP an ERP language. Client-Server SAP R/3 system was implemented using SAP NetWeaver."
+    i18n: company_a_desc
+  date:
+    detail: September 2015 - June 2016
+    i18n: company_a_date
+  job:
+    detail: Systems Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
